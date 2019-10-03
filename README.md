@@ -1,4 +1,5 @@
 # Curso de Métodos Ágeis: Introdução
+![](https://www.alura.com.br/assets/api/share/curso-introducao-aos-metodos-ageis.svg.png)
 
 ## O que são métodos agéis
 
