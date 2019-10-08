@@ -1,9 +1,12 @@
 # Curso de Métodos Ágeis: Introdução
-![](https://www.alura.com.br/assets/api/share/curso-introducao-aos-metodos-ageis.svg.png)
+![](https://www.alura.com.br/assets/api/share/curso-introducao-aos-metodos-ageis.png)
 
 ## O que são métodos agéis
+### introdução
 - Métodos tradicionais de desenvolvimento seguiam o modelo waterfall onde tudo era previamente detalhado e definido, o escopo era fechado.
-- Daí surgiam diversos problemas (ROI atrasado,estouro do prazo, pouca qualidade, resistente a mudanças, desperdícios)
+- Daí surgiam diversos problemas (ROI atrasado,estouro do prazo, pouca qualidade, resistente a mudanças, desperdícios).
+- Manifesto ágil.
+
 
 
 
