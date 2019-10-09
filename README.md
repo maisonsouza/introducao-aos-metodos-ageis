@@ -133,6 +133,14 @@ Definição de pronto.
 ```
 
 ## Requisitos e histórias de usuário
+```
+Evite dependências entre as histórias, isso pode comprometer as entregas.
+Evite detalahar demais, elas podem mudar.
+O que não for negociável deve ser explicito(leis).
+Estimado
+Histórias devem ser testáveis.
+```
+
 
 ## Estimativas
 
