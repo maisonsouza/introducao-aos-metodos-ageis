@@ -143,6 +143,11 @@ Histórias devem ser testáveis.
 
 
 ## Estimativas
+```
+Software é Complexo
+Você pode simplificar tornando compreensível mas isso não o tormará previsível.
+
+```
 
 ## Demonstrações
 
