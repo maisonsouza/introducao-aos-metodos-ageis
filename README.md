@@ -144,14 +144,37 @@ Histórias devem ser testáveis.
 
 ## Estimativas
 ```
-Software é Complexo
-Você pode simplificar tornando compreensível mas isso não o tormará previsível.
-
+Software é Complexo.
+Você pode simplificar tornando o processo compreensível mas isso não o tormará previsível.
+Você nunca faz o mesmo software 2 vezes.
+Análise do custo benefício
+Vazão do time
+Planning Poker
+Velocidade por iteração
 ```
 
 ## Demonstrações
+```
+Demonstrar o trabalho de uma iteração
+Participação do Time, Cliente.
+Satisfazer o P.O
+P.O aceita ou rejeita
+Colher feedback do produto.
+Just in Time Reviews
+Preparação
+Resultados (Aceite,Recusa do P.O)
+```
 
 ## Retrospectivas
+```
+Está previsto no manifesto ágil, um tempo de reflexão do time em busca de melhoria contínua.
+PDCA (Plan,Do,Chech,Act).
+Refletir sobre o trabalho.
+Não entre no jogo da culpa.
+O facilitador deve manter a reunião produtiva.
+Backlog de Melhorias.
+
+```
 
 ## Backlog Grooming
 
