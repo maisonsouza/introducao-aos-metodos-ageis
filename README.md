@@ -170,11 +170,29 @@ Resultados (Aceite,Recusa do P.O)
 Está previsto no manifesto ágil, um tempo de reflexão do time em busca de melhoria contínua.
 PDCA (Plan,Do,Chech,Act).
 Refletir sobre o trabalho.
+O que fizemos bem?
+O que precisamos melhorar?
+Começar/Continuar/Parar(Ações)
 Não entre no jogo da culpa.
+Mindset: Melhorar o processo para tornar mais eficiente
 O facilitador deve manter a reunião produtiva.
 Backlog de Melhorias.
-
 ```
 
 ## Backlog Grooming
+```
+Priorização do Backlog
+Hierarquia de Requisitos
+Backlog Grooming
+Fatiando e agrupando histórias
+Requisitos Funcionais e Não funcionais.
+Dívidas técnicas.
+Escrever histórias
+Detalhar histórias
+Fatiar histórias.
+Melhorar histórias.
+Estimar itens do Backlog
+Incluir Critérios de aceitação
+Alinhar Visão de Médio e Longo Prazo.
+```
 
