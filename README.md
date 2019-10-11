@@ -196,3 +196,5 @@ Incluir Critérios de aceitação
 Alinhar Visão de Médio e Longo Prazo.
 ```
 
+![](https://github.com/maisonsouza/introducao-aos-metodos-ageis/blob/master/introducao-aos-metodos-ageis.png)
+
